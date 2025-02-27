@@ -1,0 +1,7 @@
+/stream_assignment.iml
+/.idea/
+
+# Project exclude paths
+/target/
+# Project exclude paths
+/out/
